@@ -1,7 +1,7 @@
 ******** Codeigniter Google Wallet Library ********
 
 
-Authore : Ankit Sakhareliya
+Author : Ankit Sakhareliya
 Designation : Project Managet at Weblounge Inc,
 Website : http://webloungeinc.com/
 
@@ -24,7 +24,7 @@ Steps to run this sample application
 
 3. Sign up for google wallet ditigal goods at
 
-	Sandbox : https://sandbox.google.com/checkout/customer/gadget/inapp/developersignup.html
+    Sandbox : https://sandbox.google.com/checkout/customer/gadget/inapp/developersignup.html
     Production : https://checkout.google.com/customer/gadget/inapp/developersignup.html
     
     And get seller Id and seller secret Id.

@@ -26,6 +26,6 @@ Steps to run this sample application
     
     And get seller Id and seller secret Id.
     
-4.  Open seller_info.php file and replace $issuerId and $secretKey with your account Ids.
+4.  Open application/config/google_wallet.php file and replace $issuerId and $secretKey with your account Ids.
 
 5. You can now visit http://localhost/google_wallet/index.php/pay_with_google in your browser to see the application in action.
